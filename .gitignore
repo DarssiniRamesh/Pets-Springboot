@@ -3,3 +3,4 @@
 
 target/
 logs/*
+.file_activity_report.json
